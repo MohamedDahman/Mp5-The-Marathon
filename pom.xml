@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>Refugeescode.at</groupId>
-	<artifactId>Mp5 - The Marathon</artifactId>
+	<artifactId>Mp5-The-Marathon</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>Mp5 - The Marathon</name>
+	<name>Mp5-The-Marathon</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
